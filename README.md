@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola me llamo Eder Alessandro Reyna Mendoza 👋
 
-<!--
-**Amsdevice/AmsDevice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estoy trabajando en [DISCORD BOT](https://discord.com/api/oauth2/authorize?client_id=941926122499747910&permissions=8&scope=bot%20applications.commands)
 
-Here are some ideas to get you started:
+- 💻 Aprendiendo actualmente [HTML](https://www.javatpoint.com/html-tutorial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 Actualmente en 2do de secundaria 
+
+- 🤼‍♂️ Tengo amistad con [MDC](https://github.com/MDCYT)
+
+# Sobre mi 👨‍💻
+
+- Programo en java
+
+- Soy un desarrollador principiante
+
+- Soy alguien buena onda
+
+- Y me gusta socializar
