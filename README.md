@@ -1,6 +1,6 @@
 # Hola me llamo Eder Alessandro Reyna Mendoza 👋
 
-- 🔭 Estoy trabajando en [DISCORD BOT](https://discord.com/api/oauth2/authorize?client_id=941926122499747910&permissions=8&scope=bot%20applications.commands)
+- 🔭 Estoy trabajando en un DISCORD BOT
 
 - 💻 Aprendiendo actualmente [HTML](https://www.javatpoint.com/html-tutorial)
 
