@@ -44,7 +44,7 @@
 
 # Mis Metas
 
-- Ser un desarrolladore de paginas juegos etc
+- Ser un desarrollador de paginas juegos etc
 
 - Trabajar en [Mi Command Hosting](https://shop.mycommand.xyz/)
 
