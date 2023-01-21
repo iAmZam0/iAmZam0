@@ -31,7 +31,7 @@
 
 ***- [Twitter](https://twitter.com/ArmDev_)***
 
-***- [YpuTube](https://www.youtube.com/channel/UCprnj7qtIu2yb2erN83gYDA)***
+***- [YouTube](https://www.youtube.com/channel/UCprnj7qtIu2yb2erN83gYDA)***
 
 # Who I am?🤔
 
@@ -39,7 +39,7 @@
 
 # About Me🤖
 
-***- CivilStatus: In A RelationShip***
+***- Condition: In A RelationShip***
 
 ***- Name: Another Time***
 
