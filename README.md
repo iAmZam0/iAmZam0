@@ -29,9 +29,9 @@
 
 # My social media💹
 
-***- [Twitter](https://twitter.com/ArmDev_)***
+***- <a target="_blank"><img style="margin: 10px" src="https://1000marcas.net/wp-content/uploads/2019/11/Twitter-logo.png" alt="Haxe" height="15" /></a>[Twitter](https://twitter.com/ArmDev_)***
 
-***- [YouTube](https://www.youtube.com/channel/UCprnj7qtIu2yb2erN83gYDA)***
+***- <a target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt="Haxe" height="15" /></a>[YouTube](https://www.youtube.com/channel/UCprnj7qtIu2yb2erN83gYDA)***
 
 # Who I am?🤔
 
