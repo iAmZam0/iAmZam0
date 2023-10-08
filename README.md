@@ -2,28 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
-# Coding some cool stuff!!😎
-***- FNF NeoCity Reborn🌅***
-
-***- Simple Engine V4💠***
-
-***- VS Rayman Mod🔥***
-
-***- VS Qbo mod🌀***
-
-***- Break'n Eggs🥚 (game, no fnf)***
-
-***- Griefer Legends The Game***
-
 # My homies!!!😮
 ***-MrNiz(Bst Friend And No Canon Cousing)***
 
 ***-AssManBruh!(My Other Bst Friend)***
 
 ***-Jeplayx(My Homie For Life)***
-
-***-DrawPant(Abuelo Mufasa)***
 
 ***-Fisewoli(Omaga bro)***
 
