@@ -2,5 +2,5 @@
 **_SEVU_**
 <img src="sevu.png" width="100" height="100"/>
 
-**_SEVU_**
+**_HEV_**
 <img src="hev.png" width="100" height="100"/>
