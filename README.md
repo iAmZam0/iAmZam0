@@ -1,4 +1,4 @@
-# HELLO WORLD!
+# HELLO WORLD! (MY FRIENDS)
 **_SEVU_**
 
 <img src="sevu.png" width="100" height="100"/>
