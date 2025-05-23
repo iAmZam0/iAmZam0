@@ -5,5 +5,4 @@
 
 **_HEV_**
 
-<img src="hev.png" width="100" height="100"/>
-_small dick_
+<img src="hev.png" width="100" height="100"/> _small dick_
